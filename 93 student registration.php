@@ -7,7 +7,7 @@
 
     <h2>Student Registration Form</h2>
 
-    <form action="submit_student.php" method="POST">
+<form action="submit_student.php" method="POST">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required><br><br>
 
@@ -29,7 +29,7 @@
 
         <button type="submit">Submit</button>
         <button type="reset">Cancel</button>
-    </form>
+</form>
 
 </body>
 </html>
